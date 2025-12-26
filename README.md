@@ -17,7 +17,7 @@ A flexible and customizable library for Compose Multiplatform that enables synch
 
 ## Preview
 
-![Modal Preview](media/preview.gif)
+<img src="media/preview.gif" width="300" alt="Stencil Preview"/>
 
 ## Features
 
