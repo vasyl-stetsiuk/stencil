@@ -15,6 +15,10 @@ A flexible and customizable library for Compose Multiplatform that enables synch
 | Web (JS) | ✅ Supported |
 | WebAssembly | ✅ Supported |
 
+## Preview
+
+![Modal Preview](media/preview.gif)
+
 ## Features
 
 - **Multiplatform Support**: Works seamlessly across Android, iOS, Desktop, Web (JS), and WebAssembly
