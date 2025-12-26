@@ -5,6 +5,16 @@ A flexible and customizable library for Compose Multiplatform that enables synch
 [![Maven Central](https://img.shields.io/maven-central/v/dev.stetsiuk/compose-stencil.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/dev.stetsiuk/compose-stencil)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+## Platform Support
+
+| Platform | Status |
+|----------|--------|
+| Android  | ✅ Supported |
+| iOS      | ✅ Supported (arm64, x64, simulatorArm64) |
+| Desktop  | ✅ Supported (JVM) |
+| Web (JS) | ✅ Supported |
+| WebAssembly | ✅ Supported |
+
 ## Features
 
 - **Multiplatform Support**: Works seamlessly across Android, iOS, Desktop, Web (JS), and WebAssembly
@@ -12,13 +22,6 @@ A flexible and customizable library for Compose Multiplatform that enables synch
 - **Flexible Positioning**: Customize how backgrounds are positioned and rendered
 - **Shape Support**: Apply custom shapes to child components
 - **Compose-First**: Built with Jetpack Compose principles for modern UI development
-
-## Platforms
-
-- Android (API 24+)
-- iOS (Arm64, X64, Simulator Arm64)
-- Desktop (JVM)
-- Web (JS, WebAssembly)
 
 ## Installation
 
